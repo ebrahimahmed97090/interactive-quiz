@@ -1,0 +1,20 @@
+* {
+    font-size: 20px;
+}
+.circle{
+/* border-radius : 50%;*/
+    border-radius: 50%;
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+}
+.circle span
+{top: 15px;
+    position: relative;
+    font-size: 40px;}
+    .sbmt{
+        margin-left: 50px;
+    }
+    input{
+        margin-top: 12px!important;
+    }
